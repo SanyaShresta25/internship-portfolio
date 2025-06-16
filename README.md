@@ -58,7 +58,6 @@ Then visit `http://localhost:5173` to view the project locally.
 
 * 🌟 Background particle animation
 * 📱 Fully responsive grid layout
-* 🎥 GIF-based project previews
 * 🔗 Project links (GitHub + Live Demo)
 * 👨‍🏫 Mentor and supervisor credits
 * 📬 Connect with me section (Email, GitHub, LinkedIn, etc.)
