@@ -11,7 +11,7 @@ const InternshipPortfolio = () => {
       title: "Recipe Page",
       image: "/assets/gifs/recipe.gif",
 
-      description: "A beginner-friendly recipe page built using HTML and CSS.",
+      description: "A beginner-friendly recipe page built using HTML and CSS. Includes ingredients and instructions.",
       topics: ["HTML", "CSS", "Flexbox"],
       date: "2 June 2025",
       githubUrl: "https://github.com/SanyaShresta25/Recipe-Page",
@@ -108,7 +108,7 @@ const InternshipPortfolio = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-black text-white relative overflow-hidden">
+    <div className="min-h-screen bg-black text-white relative">
       {/* Background Particles */}
       <div className="absolute inset-0 overflow-hidden">
         {[...Array(20)].map((_, i) => (
@@ -157,8 +157,8 @@ const InternshipPortfolio = () => {
                 <div className="relative overflow-hidden rounded-lg mb-4 h-32 bg-gradient-to-br from-orange-300/10 to-pink-300/10">
                   <img
                     src={project.image}
-                    alt={`${project.title} preview`}
-                    className="w-full h-full object-cover rounded-lg"
+                    alt={project.title}
+                    className="w-full h-32 object-cover rounded-lg"
                   />
                   <div className="absolute inset-0 bg-gradient-to-br from-pink-300/20 to-transparent"></div>
                   <div className={`absolute inset-0 bg-gradient-to-r ${glowColors[index % glowColors.length]} opacity-0 group-hover:opacity-20 transition-opacity duration-500`}></div>
