@@ -4,7 +4,7 @@ A visually engaging and responsive internship portfolio built with **React (via 
 
 ## 🌐 Live Preview
 
-👉 [Check it out here](https://your-deployment-url.com)
+👉 [Check it out here](https://internship-portfolio-pearl.vercel.app/)
 
 ## 📁 Project Structure
 
