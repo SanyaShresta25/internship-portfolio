@@ -98,7 +98,7 @@ const InternshipPortfolio = () => {
       githubUrl: "https://github.com/SanyaShresta25/Trendora-Ecommerce-Site",
       liveUrl: "https://trendora-ecommerce-site.vercel.app/"
     },
-     {
+    {
       id: 10,
       title: "Internship Portfolio",
       image: "/assets/gifs/work.gif",
