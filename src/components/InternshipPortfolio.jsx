@@ -1,5 +1,5 @@
+import { Calendar, Code, ExternalLink, Github, Mail } from 'lucide-react';
 import React, { useState } from 'react';
-import { Github, ExternalLink, Calendar, Code, Mail } from 'lucide-react';
 
 
 const InternshipPortfolio = () => {
@@ -97,6 +97,36 @@ const InternshipPortfolio = () => {
       date: "13 June 2025",
       githubUrl: "https://github.com/SanyaShresta25/Trendora-Ecommerce-Site",
       liveUrl: "https://trendora-ecommerce-site.vercel.app/"
+    },
+     {
+      id: 10,
+      title: "Internship Portfolio",
+      image: "/assets/gifs/work.gif",
+      description: " A curated showcase of web development projects built during the Design WebTech internship using React.",
+      topics: ["React", "tailwind-css", "vite"],
+      date: "16 June 2025",
+      githubUrl: "https://github.com/SanyaShresta25/Internship-Portfolio",
+      liveUrl: "https://internship-portfolio-pearl.vercel.app/"
+    },
+    {
+      id: 11,
+      title: "Order Summary Page",
+      image: "/assets/gifs/order.gif",
+      description: " A responsive and elegant Order Summary card built with React, TypeScript, and Tailwind CSS .",
+      topics: ["props", "components", "react-ts"],
+      date: "17 June 2025",
+      githubUrl: "https://github.com/SanyaShresta25/Order-Summary",
+      liveUrl: "https://order-summary-snowy.vercel.app/"
+    },
+    {
+      id: 12,
+      title: "Counter App",
+      image: "/assets/gifs/counter.gif",
+      description: " A responsive counter app built with React, TypeScript, and Tailwind CSS, featuring  basic state handling.",
+      topics: ["hooks", "useState", "useEffect"],
+      date: "18 June 2025",
+      githubUrl: "https://github.com/SanyaShresta25/Counter-App",
+      liveUrl: "https://counter-app-steel-pi.vercel.app/"
     }
   ];
 
