@@ -127,7 +127,48 @@ const InternshipPortfolio = () => {
       date: "18 June 2025",
       githubUrl: "https://github.com/SanyaShresta25/Counter-App",
       liveUrl: "https://counter-app-steel-pi.vercel.app/"
+    },
+    {
+      id: 13,
+      title: "Extension Manager",
+      image: "/assets/gifs/extension.gif",
+      description: "A modern React extension management UI demonstrating conditional rendering, list mapping, and parent-child component architecture.",
+      topics: ["lists", "conditional rendering", "key-props"],
+      date: "19 June 2025",
+      githubUrl: "https://github.com/SanyaShresta25/extension-manager",
+      liveUrl: "https://extension-manager-blue.vercel.app/"
+    },
+     {
+      id: 14,
+      title: "To Do List",
+      image: "/assets/gifs/todo.gif",
+      description: "A React + TypeScript To-do List App using useEffect and localStorage to add, complete, delete, and persist tasks. ",
+      topics: ["glassmorphism-css", "useState", "useEffect"],
+      date: "20 June 2025",
+      githubUrl: "https://github.com/SanyaShresta25/to-do-list",
+      liveUrl: "https://to-do-list-eight-peach-49.vercel.app/"
+    },
+     {
+      id: 15,
+      title: "Food Journal",
+      image: "/assets/gifs/food.gif",
+      description: "A vibrant recipe explorer app built with React and Tailwind, featuring animated UI, live search, and beautifully styled recipe detail pages.",
+      topics: ["api-rest", "tailwind-animate", "useEffect"],
+      date: "23 June 2025",
+      githubUrl: "https://github.com/SanyaShresta25/food-journal",
+      liveUrl: "https://food-journal-nine.vercel.app/"
+    },
+    {
+      id: 16,
+      title: "Starlit useEffect Demo",
+      image: "/assets/gifs/star.gif",
+      description: "Visualize React’s useEffect lifecycle with stars, parallax, and a cosmic welcome UI built using Three.js + Tailwind",
+      topics: ["three-.js", "tailwind-css", "useEffect"],
+      date: "24 June 2025",
+      githubUrl: "https://github.com/SanyaShresta25/starlit-useeffect-demo",
+      liveUrl: "https://bespoke-torte-7c7206.netlify.app/"
     }
+
   ];
 
   const glowColors = [
