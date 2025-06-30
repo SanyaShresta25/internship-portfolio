@@ -232,7 +232,7 @@ const InternshipPortfolio = () => {
       <header className="relative z-10 text-center py-20 px-4">
         <div className="absolute top-0 left-1/2 transform -translate-x-1/2 w-96 h-96 bg-gradient-radial from-pink-300/30 to-transparent blur-3xl"></div>
         <div className="relative">
-          <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-orange-300 via-pink-300 via-orange-200 to-pink-300 bg-clip-text text-transparent animate-pulse pb-2">
+          <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-orange-300 via-pink-300 to-pink-300 bg-clip-text text-transparent animate-pulse pb-2">
             Design WebTech
           </h1>
           <p className="text-xl md:text-2xl text-orange-300/90 font-light">
