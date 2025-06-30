@@ -171,29 +171,40 @@ const InternshipPortfolio = () => {
     {
       id: 17,
       title: "Contact Form",
-      image: "/assets/gifs/star.gif",
+      image: "/assets/gifs/contact.gif",
       description: "A responsive and accessible contact form built with React, TypeScript, Tailwind CSS, and Vite , featuring controlled components, form validation, and reusable UI elements.",
       topics: ["form-validation", "controlled-components", "react-ts"],
-      date: "24 June 2025",
+      date: "25 June 2025",
       githubUrl: "https://github.com/SanyaShresta25/contact-form",
       liveUrl: "https://contact-form-xgu3.vercel.app/"
     },
     {
       id: 18,
       title: "React Router Dom Demo",
-      image: "/assets/gifs/star.gif",
+      image: "/assets/gifs/router.gif",
       description: "A modern React app using React Router to demonstrate static & dynamic routing, 404 handling, API integration, and search functionality with a clean UI.",
       topics: ["react-router", "routing", "error-handling"],
-      date: "24 June 2025",
+      date: "26 June 2025",
+      githubUrl: "https://github.com/SanyaShresta25/react-router-dom-demo",
+      liveUrl: "https://react-route-dom-demo-15bb.vercel.app/"
+    },
+      {
+      id: 18,
+      title: "React Router Dom (with theme)",
+      image: "/assets/gifs/green.gif",
+      description: "A modern React app using React Router to demonstrate static & dynamic routing, 404 handling, API integration, and search functionality with a clean UI.",
+      topics: ["useContext", "routing", "error-handling"],
+      date: "27 June 2025",
       githubUrl: "https://github.com/SanyaShresta25/react-router-dom-demo",
       liveUrl: "https://react-route-dom-demo-15bb.vercel.app/"
     },
     {
       id: 19,
       title: "Stopwatch using useRef",
-      image: "/assets/gifs/star.gif",
-      description: "A minimalist and responsive stopwatch app built with React, TypeScript, and Tailwind CSS.The core logic leverages useRef to track start time and accumulate elapsed time without causing unnecessary re-renders.",
-      date: "24 June 2025",
+      image: "/assets/gifs/stopwatch.gif",
+      description: "A minimalist and responsive stopwatch app , he core logic leverages useRef to track start time and accumulate elapsed time without causing unnecessary re-renders.",
+      topics: ["useRef", "hooks", "react-ts"],
+      date: "30 June 2025",
       githubUrl: "https://github.com/SanyaShresta25/stopwatch-using-useRef",
       liveUrl: "https://stopwatch-using-use-ref.vercel.app/"
     }
