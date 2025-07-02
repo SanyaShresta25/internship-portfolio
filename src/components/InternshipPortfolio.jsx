@@ -207,7 +207,27 @@ const InternshipPortfolio = () => {
       date: "30 June 2025",
       githubUrl: "https://github.com/SanyaShresta25/stopwatch-using-useRef",
       liveUrl: "https://stopwatch-using-use-ref.vercel.app/"
-    }
+    },
+    {
+      id: 20,
+      title: "Multi Step Form",
+      image: "/assets/gifs/multi.gif",
+      description: "This project is a modern, multi-step job application form built with React, using useReducer and react-hook-form for seamless state management, validation, and a clean user experience.",
+      topics: ["multi step form", "react hook form", "useReducer"],
+      date: "1 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/multi-step-form",
+      liveUrl: "https://multi-step-form-rosy-eight.vercel.app/"
+    },
+{
+      id: 21,
+      title: "Dessert Cart",
+      image: "/assets/gifs/dessert.gif",
+      description: "A dessert cart app using React’s useContext and useReducer for global cart state,making cart actions and sweet treats accessible anywhere in the app.",
+      topics: ["useContext", "folder management", "useReducer"],
+      date: "2 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/dessert-cart",
+      liveUrl: "https://dessert-cart-phi.vercel.app/"
+    },
 
   ];
 
