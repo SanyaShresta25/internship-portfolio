@@ -270,13 +270,13 @@ const InternshipPortfolio = () => {
     },
     {
       id: 26,
-      title: "Next Js Demo",
+      title: "Marvel Three JS",
       image: "/assets/gifs/26.gif",
-      description: "Practice program - Starting with Next.js +Shadcn.",
-      topics: ["next js", "tailwind css", "shadcn"],
-      date: "9 July 2025",
-      githubUrl: "https://github.com/SanyaShresta25/next-js-practice",
-      liveUrl: "https://next-js-practice-mu-virid.vercel.app/"
+      description: "Simple 3D visualization using Three.js — includes a rotating object and animated text. Clean, lightweight, and easy to extend.",
+      topics: ["three js", "animation css"],
+      date: "18 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/marvel-three.js",
+      liveUrl: "https://marvel-three-js.vercel.app/"
     },
      {
       id: 27,
