@@ -262,7 +262,7 @@ const InternshipPortfolio = () => {
       id: 25,
       title: "Next Js Demo",
       image: "/assets/gifs/25.gif",
-      description: "Practice program - Starting with Next.js +Shadcn.",
+      description: "Starting my practice program with Next.js and Shadcn.Focusing on building projects and learning modern web development.Exploring everything from components and styling to routing and optimization.",
       topics: ["next js", "tailwind css", "shadcn"],
       date: "9 July 2025",
       githubUrl: "https://github.com/SanyaShresta25/next-js-practice",
