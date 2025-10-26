@@ -351,7 +351,7 @@ const InternshipPortfolio = () => {
           <p className="text-xl md:text-2xl text-orange-300/90 font-light">
             Internship Projects Portfolio
           </p>
-          <p className="text-xl md:text-xl text-yellow-300/90 font-light">
+          <p className="text-xl md:text-xl text-orange-300/90 font-semibold">
             By Sanya Shresta Jathanna
           </p>
         </div>
