@@ -228,6 +228,88 @@ const InternshipPortfolio = () => {
       githubUrl: "https://github.com/SanyaShresta25/dessert-cart",
       liveUrl: "https://dessert-cart-phi.vercel.app/"
     },
+    {
+      id: 22,
+      title: "Invoice Dashboard",
+      image: "/assets/gifs/dessert.gif",
+      description: "A clean, responsive invoice management dashboard built with React and TypeScript. Features include status-based filtering, amount/date sorting, revenue summaries, and performance-optimized rendering using useMemo",
+      topics: ["useContext", "folder management", "useReducer"],
+      date: "4 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/invoice-dashboard-using-useMemo",
+      liveUrl: "https://invoice-dashboard-using-use-memo.vercel.app/"
+    },
+    {
+      id: 23,
+      title: "Custom Hook Demo",
+      image: "/assets/gifs/dessert.gif",
+      description: "A minimal React app demonstrating a custom hook for undo and redo functionality in a text editor. Built with TypeScript, Tailwind CSS, and Vite, featuring responsive design and clean UI.",
+      topics: ["best practices", "custom hook", "react js"],
+      date: "7 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/customhook-demo",
+      liveUrl: "https://customhook-demo.vercel.app/"
+    },
+    {
+      id: 24,
+      title: "React Router Dom Demo",
+      image: "/assets/gifs/dessert.gif",
+      description: "A modern React app using React Router to demonstrate static & dynamic routing, 404 handling, API integration, and search functionality with a clean UI.",
+      topics: ["react router", "error handling", "routing"],
+      date: "8 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/invoice-dashboard-using-useMemo",
+      liveUrl: "https://react-route-dom-demo-15bb.vercel.app/"
+    },
+    {
+      id: 25,
+      title: "Next Js Demo",
+      image: "/assets/gifs/dessert.gif",
+      description: "Practice program - Starting with Next.js +Shadcn.",
+      topics: ["next js", "tailwind css", "shadcn"],
+      date: "9 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/next-js-practice",
+      liveUrl: "https://next-js-practice-mu-virid.vercel.app/"
+    },
+    {
+      id: 26,
+      title: "Next Js Demo",
+      image: "/assets/gifs/dessert.gif",
+      description: "Practice program - Starting with Next.js +Shadcn.",
+      topics: ["next js", "tailwind css", "shadcn"],
+      date: "9 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/next-js-practice",
+      liveUrl: "https://next-js-practice-mu-virid.vercel.app/"
+    },
+     {
+      id: 27,
+      title: "Routing in Next Js",
+      image: "/assets/gifs/dessert.gif",
+      description: "A clean, responsive UI built with Next.js and Tailwind CSS. It features a modern, card-based layout perfect for showcasing services, features, or team roles on a tech-oriented landing page.",
+      topics: ["next js", "routing", "shadcn"],
+      date: "21 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/routing-in-next.js",
+      liveUrl: "https://routing-in-next-js-five.vercel.app/en/login"
+    },
+     {
+      id: 28,
+      title: "State Management using Redux ",
+      image: "/assets/gifs/dessert.gif",
+      description: "A clean, responsive UI built with Next.js and Tailwind CSS. It features a modern, card-based layout perfect for showcasing services, features, or team roles on a tech-oriented landing page.",
+      topics: ["redux thunk", "next js", "shadcn"],
+      date: "29 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/state-management-using-redux",
+      liveUrl: "https://state-management-using-redux.vercel.app/"
+    },
+     {
+      id: 29,
+      title: "State Management using Zustand ",
+      image: "/assets/gifs/dessert.gif",
+      description: "A minimal todo app built with Next.js 15, Tailwind CSS, and Zustand. It fetches todos from a public API and displays them",
+      topics: ["zustand", "next js", "shadcn"],
+      date: "30 July 2025",
+      githubUrl: "https://github.com/SanyaShresta25/state-management-using-zustand",
+      liveUrl: "https://state-management-using-zustand.vercel.app/"
+    },
+    
+
 
   ];
 
